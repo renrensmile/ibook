@@ -3,3 +3,5 @@ node_modules
 logs
 dist
 .temp
+docs/.vuepress/dist
+docs/.vuepress/.cache
